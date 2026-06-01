@@ -670,7 +670,7 @@ Events are capped at 50,000 in memory (trimmed from the front). This ensures the
 ### 5. Frame Streaming via WebSocket
 Annotated frames are JPEG-encoded at 70% quality, resized to max 640px width, and sent as base64 strings over WebSocket. This avoids any need for RTSP/HLS infrastructure while still providing a live "camera feed" experience in the dashboard.
 
-## Screenshots
-![Dashboard](screenshot/Screenshot 2026-06-01 125512.png)
-![--](screenshot/Screenshot 2026-06-01 125527.png)
-![--](screenshot/Screenshot 2026-06-01 125548.png)
+## Screenshot
+![Dashboard](screenshot/1.png)
+![--](screenshot/2.png)
+![--](screenshot/3.png)
