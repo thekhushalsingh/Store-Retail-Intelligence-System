@@ -1,0 +1,8 @@
+ultralytics==8.1.24
+supervision==0.18.0
+opencv-python==4.9.0.80
+torch==2.2.1
+torchvision==0.17.1
+httpx==0.27.0
+numpy==1.26.4
+pandas==2.2.1
